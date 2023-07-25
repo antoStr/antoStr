@@ -2,7 +2,7 @@
 
 ## Chi sono?
 
-Ciao! Sono **[Antonio]**, uno sviluppatore appassionato di tecnologia e programmazione. Mi piace esplorare nuove tecnologie e mettere alla prova le mie competenze attraverso progetti creativi.
+Ciao! Sono **Antonio**, uno sviluppatore appassionato di tecnologia e programmazione. Mi piace esplorare nuove tecnologie e mettere alla prova le mie competenze attraverso progetti creativi.
 
 ## Le mie competenze
 
