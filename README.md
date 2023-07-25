@@ -6,10 +6,8 @@ Ciao! Sono **[Antonio]**, uno sviluppatore appassionato di tecnologia e programm
 
 ## Le mie competenze
 
-- Linguaggi di programmazione:**JavaScript**,
+- Linguaggi di programmazione: **JavaScript**,
 - Tecnologie frontend: **HTML**, **CSS**, **Vue.js**
-- Tecnologie backend: **Node.js**, **Express.js**, **Django**
-- Basi di dati: **MongoDB**, **MySQL**
 - Altre competenze: **Git**
 
 ## Cosa sto imparando?
